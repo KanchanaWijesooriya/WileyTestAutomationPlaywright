@@ -4015,3 +4015,5 @@ Verify the page does not crash or behave abnormally |The page remains functional
 
 </html>
 
+![Screenshot (267)](https://github.com/user-attachments/assets/2ad44d7f-0cc7-4727-ae4f-ef3bc92748c4)
+
