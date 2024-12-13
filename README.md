@@ -1,5 +1,11 @@
 # Assessment 02: Automation of Functional Test Cases 
 
+How to run: 
+
+- Install Playwright. (npm init playwright@latest)
+  
+- Run commandon terminal: 'npx playwright test' 
+
 ## TC01 - Verify the Search Functionality of ‘Wiley online library’ with Valid Keywords
 
 **Preconditions:**
